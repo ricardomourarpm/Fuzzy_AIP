@@ -1,7 +1,3 @@
-Here is a structured **README.md** file for the **Mamdani_AIP_2Phase_english.py** script based on the information extracted from the provided PDF document.
-
----
-
 ## README.md  
 
 # Two-Stage Fuzzy Inference System for Submarine AIP Selection  
@@ -107,7 +103,3 @@ For more details, visit the **full research paper** or the **GitHub repository**
 
 ## License  
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.  
-
----
-
-Let me know if you need any modifications! 🚀
